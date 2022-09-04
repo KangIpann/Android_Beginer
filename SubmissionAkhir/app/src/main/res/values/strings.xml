@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubmissionDicodingAndroid</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="food_description">Isi Deskripsi Makanan</string>
+    <string name="myName">Arialdo Rivandi Tion Saputra</string>
+    <string name="myEmail">ivakaopsionalacount@gmail.com</string>
+    <string name="profil">profil</string>
+    <string name="makanan_nusantara">Makanan Nusantara</string>
+</resources>
