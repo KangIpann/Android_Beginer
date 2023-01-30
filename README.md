@@ -4,3 +4,6 @@
 ![Screenshot (1138)](https://user-images.githubusercontent.com/77010111/203720017-8a3b22ac-9739-4158-a194-35ee97c7e4e6.png)
 # Contoh Project Intent: 
 ![Screenshot (1143)](https://user-images.githubusercontent.com/77010111/205553274-a3b54679-07c2-43f7-aeac-52c1befa5b3f.png)
+# Contoh Project View & ViewGroup: 
+![image](https://user-images.githubusercontent.com/77010111/215385156-104a3985-ebdb-42ce-aa18-5278ff9e7801.png)
+
