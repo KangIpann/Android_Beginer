@@ -13,3 +13,9 @@
 ![image](https://user-images.githubusercontent.com/77010111/221116982-95aec56e-58e0-47e8-87d0-e8713a16af6f.png)
 3)Card View:
 ![image](https://user-images.githubusercontent.com/77010111/221117081-7741e8fe-1771-4a26-98ec-6a3c6f88589c.png)
+# Contoh Project ModulFragment:
+1) First Fragment:
+![image](https://user-images.githubusercontent.com/77010111/223360438-04a600d8-d0c1-454d-be63-0f451cfaf713.png)
+2) Second Fragment: 
+![image](https://user-images.githubusercontent.com/77010111/223360571-eef6e4f3-05ef-4530-91be-89e24882c0f0.png)
+ 
