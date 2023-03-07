@@ -20,7 +20,7 @@ class SplashScreen : AppCompatActivity() {
                     startActivity(intent)
                     overridePendingTransition(R.anim.fadein, R.anim.fadeout)
                 }catch (e:Exception){
-                    e.printStackTrace()
+                    e.printStackTrace()KONZ
                 }
             }
         }

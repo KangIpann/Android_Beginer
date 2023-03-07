@@ -14,6 +14,12 @@
         android:theme="@style/Theme.BelajarIntent"
         tools:targetApi="31">
         <activity
+            android:name=".moveclass"
+            android:exported="false" />
+        <activity
+            android:name=".activity_input"
+            android:exported="false" />
+        <activity
             android:name=".MoveWithDataActivity"
             android:exported="false" />
         <activity

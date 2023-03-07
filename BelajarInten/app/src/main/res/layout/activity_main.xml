@@ -25,10 +25,31 @@
         android:layout_marginBottom="16dp"/>
 
     <Button
+        android:id="@+id/btn_move_activity_class"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pindah Activity Object"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
         android:id="@+id/btn_dial_number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/dial_number"
         android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btn_move_activity_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Input for result"
+        android:layout_marginBottom="16dp"/>
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:text="Result"/>
 
 </LinearLayout>

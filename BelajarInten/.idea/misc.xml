@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidAppsDicoding/BelajarInten/app/src/main/res/layout/activity_input.xml" value="0.264" />
         <entry key="..\:/AndroidAppsDicoding/BelajarInten/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidAppsDicoding/BelajarInten/app/src/main/res/layout/activity_move.xml" value="0.22826086956521738" />
         <entry key="..\:/AndroidAppsDicoding/BelajarInten/app/src/main/res/layout/activity_move_with_data.xml" value="0.23007246376811594" />
+        <entry key="..\:/AndroidAppsDicoding/BelajarInten/app/src/main/res/layout/activity_moveclass.xml" value="0.1766304347826087" />
       </map>
     </option>
   </component>
